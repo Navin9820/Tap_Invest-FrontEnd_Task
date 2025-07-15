@@ -190,16 +190,7 @@ npm run build         # Build production bundle
 npm run deploy        # Deploy to configured platform
 ```
 
-## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
 
 ### Code Standards
 - **ESLint** - Code quality and consistency
@@ -207,9 +198,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - **TypeScript** - Type safety requirements
 - **Conventional Commits** - Standardized commit messages
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
