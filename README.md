@@ -216,6 +216,6 @@ npm run deploy        # Deploy to configured platform
 
 ---
 
-**Built with ❤️ using modern web technologies**
+
 
 *FitTrack Pro - Where fitness meets technology*
